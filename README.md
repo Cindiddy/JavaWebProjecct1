@@ -13,8 +13,7 @@
 - http://localhost:8080/brand-case/brand.html
 
 ### Screenshots
-<img src="imgs/1.png" width=500>
-<img src="imgs/2.png" width=500>
-<img src="imgs/3.png" width=500>
-<img src="imgs/4.png" width=500>
-<img src="imgs/5.png" width=500>
+<img src="imgs/1.png" width=700>
+<img src="imgs/2.png" width=700>
+<img src="imgs/3.png" width=700>
+<img src="imgs/5.png" width=700>
