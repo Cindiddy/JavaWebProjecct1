@@ -15,12 +15,12 @@
                 <property name="driver" value="com.mysql.cj.jdbc.Driver"/>
                 <property name="url" value="jdbc:mysql:///db1?useSSL=false"/>
                 <property name="username" value="root"/>
-                <property name="password" value="Xiangxinwo"/>
+                <property name="password" value="1234"/>
             </dataSource>
         </environment>
     </environments>
     <mappers>
-       <!--扫描mapper-->
+       <!--scan mapper-->
         <package name="com.cindy.mapper"/>
     </mappers>
 </configuration>
